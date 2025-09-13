@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac",LANGUAGE="tha",NAME="THA",DEFAULT=NO,AUTOSELECT=NO,URI="https://statics-01.duckduckcdn.com/6456bfe9-bc91-5f67-a33a-d340c6975806/audio-tha/audio.m3u8"
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac",LANGUAGE="eng",NAME="ENG",DEFAULT=YES,AUTOSELECT=YES,URI="https://statics-01.duckduckcdn.com/6456bfe9-bc91-5f67-a33a-d340c6975806/audio-eng/audio.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac",LANGUAGE="tha",NAME="THA",DEFAULT=NO,AUTOSELECT=YES,URI="https://statics-01.duckduckcdn.com/6456bfe9-bc91-5f67-a33a-d340c6975806/audio-tha/audio.m3u8"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="aac",LANGUAGE="eng",NAME="ENG",DEFAULT=YES,AUTOSELECT=NO,URI="https://statics-01.duckduckcdn.com/6456bfe9-bc91-5f67-a33a-d340c6975806/audio-eng/audio.m3u8"
 #EXT-X-STREAM-INF:BANDWIDTH=3500000,RESOLUTION=1920x1080,CODECS="avc1.4d401e,mp4a.40.2",AUDIO="aac"
 https://statics-01.duckduckcdn.com/6456bfe9-bc91-5f67-a33a-d340c6975806/videos/1080p.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1280x720,CODECS="avc1.4d401e,mp4a.40.2",AUDIO="aac"
